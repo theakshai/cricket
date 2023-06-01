@@ -1,0 +1,23 @@
+h1{
+  text-align: center;
+}
+
+h5{
+  font-size: 1.5rem;
+}
+
+
+p{
+  font-weight: bolder;
+}
+section{
+  display: flex;
+  justify-content: space-evenly;
+  margin: 4rem;
+}
+
+button{
+  height: 2rem;
+  width: 4rem;
+  border-radius: 0.4rem;
+}
